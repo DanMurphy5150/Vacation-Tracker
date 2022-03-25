@@ -1,0 +1,36 @@
+{
+  "vacations": [
+    {
+      "id": 1,
+      "location": "Bahamas",
+      "startDate": "4/17/2022",
+      "endDate": "4/25/2022",
+      "estimatedCost": 750,
+      "savedAmount": 100
+    },
+    {
+      "id": 2,
+      "location": "France",
+      "startDate": "11/13/2023",
+      "endDate": "12/1/2023",
+      "estimatedCost": 8000,
+      "savedAmount": 350
+    },
+    {
+      "id": 3,
+      "location": "Japan",
+      "startDate": "7/17/2025",
+      "endDate": "7/30/2025",
+      "estimatedCost": 10000,
+      "savedAmount": 6000
+    },
+    {
+      "location": "Coca Beach",
+      "startDate": "13/12/2023",
+      "endDate": "20/12/2023",
+      "estimatedCost": "1000.00",
+      "savedAmount": "250.00",
+      "id": 4
+    }
+  ]
+}
